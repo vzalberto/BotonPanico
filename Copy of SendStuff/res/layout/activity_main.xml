@@ -36,7 +36,7 @@
         android:layout_centerHorizontal="true"
         android:layout_marginTop="15dp"
         android:ems="10"
-        android:text="7712210127" />
+        android:text="5555555" />
 
 
     <EditText
@@ -55,7 +55,8 @@
         android:layout_height="wrap_content"
         android:layout_alignParentRight="true"
         android:layout_below="@+id/SMSrecipient"
-        android:ems="10" 
+        android:ems="10"
+        android:text="mensaje alternativo de pánico"
         />
 
 </RelativeLayout>
